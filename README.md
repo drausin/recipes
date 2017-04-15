@@ -1,2 +1,4 @@
 # recipes
-Because why not host my recipes on github?
+Because github will probably be around longer than my binder of hand-written notes.
+
+- [Granola](granola.md)
