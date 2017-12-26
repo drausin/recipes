@@ -16,6 +16,6 @@ Credit: Mary (my sister)
 4) Remove from heat and cool to lukewarm.
 5) Whisk in sugar and vanilla.
 6) Whisk in eggs one at a time until mixture is glossy and smooth.
-7) Whisk together flour, cocoa, and salt, then whisk into chocolate micture until combined.
+7) Whisk together flour, cocoa, and salt, then whisk into chocolate mixture until combined.
 8) Spread in pan and bake until pick or knife comes out of the center with crumbs, 25-35 mins.
 9) Cool completely.
