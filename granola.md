@@ -13,6 +13,7 @@ The basic ratio is 6 parts dry to 1 part wet. Follow that, and you'll be good. I
 - 1/2 cup maple syrup
 - 1 tsp vanilla extract
 - 3/2 cups dried tart Montgomery cherries
+- 1/2 cups minced crystalized ginger (optional)
 
 1) Heat oven to 325 F.
 2) Mix dry ingredients in large pot.
