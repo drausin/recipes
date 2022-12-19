@@ -2,7 +2,8 @@
 
 The basic ratio is 6 parts dry to 1 part wet. Follow that, and you'll be good. I like a well-seasoned granola, but feel free to scale back on the salt if you're so inclined.
 
-- 4 cup rolled oats (i.e., not quick-cooking)
+- 3 cup rolled oats (i.e., not quick-cooking)
+- 1 cup coconut flakes
 - 1 cup subflower seeds
 - 1 cup chopped dry-roasted almonds
 - 1 tsp salt

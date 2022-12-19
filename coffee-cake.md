@@ -1,6 +1,6 @@
 # Coffee Cake
 
-credid: The New Best Recipe (Cook's Illustrated)
+credit: The New Best Recipe (Cook's Illustrated)
 
 Streusel
 - 3/4 cup unbleachd flour
