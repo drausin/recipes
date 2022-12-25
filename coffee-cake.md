@@ -17,7 +17,7 @@ Cake
 - 1 1/4 cups sugar
 - 1 Tbsp baking powder
 - 3/4 tsp baking soda
-- 3/4 tsp baking soda
+- 3/4 tsp salt
 - 12 Tbsp unsalted butter, softened but cool, cut into 1-in cubes
 
 Often you'll want coffee cake for the morning. This cake can take a while to prep, bake, and cool, so we recommend doing steps 2-4 the night before. Budget 90 minutes the morning of for baking and cooling.
