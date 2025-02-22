@@ -1,24 +1,20 @@
 # Biscuits
-Credit: Thomas Keller
+Credit: [Alison Roman](https://www.alisoneroman.com/recipes/luckiest-biscuits-in-america)
 
-- 2 cups cake flour
-- 2 cups all-purpose flour
-- 1 Tbsp kosher salt
+- 3 cups all-purpose flour
 - 1 Tbsp baking powder
-- 1 tsp baking soda
-- 0.5 pound (2 sticks) unsalted butter, cut into 0.25 inch cubes and chilled in freezer
-- 1.5 cups buttermilk
+- 1/4 tsp baking soda
+- 2 tsp kosher salt
+- 1.5 tsp sugar
+- 1 cup (2 sticks) unsalted butter, cut into 0.5 inch cubes and chilled in freezer
+- 1.25 cups buttermilk plus more for brushing
 
-Makes 12 large biscuits or 18 smaller ones. It also comes out well if you want to halve the recipe. The basic thing is to mix and handle the dough as little as possible to avoid developing the gluten. The rectangular shape of the biscuits prevents any dough waste while minimizing how much you must work it.
+Makes 8 biscuits. The rectangular shape of the biscuits prevents any dough waste while minimizing how much you must work it.
 
-1) Preheat oven to 375 F and fill baking tray on the lower rack with a cm or so of water.
-2) Combine dry ingredients in food processor and pulse a few times to mix.
-3) Add chilled butter cubes to dry ingredients and mix loosely with spatula.
-4) Pulse food processor about 4 times for 1 second each until butter pieces are roughly pea-sized.
-5) Dump mixture into large bowl. Pour buttermilk into it and gently fold dry ingredientes into it. It will be clumpy and shouldn't quite come together.
-6) Dump mixture onto counter (possibly on wax or parchment paper) and form/pat it into rectangle 1 to 1.5 inches high and sides ratio of roughly 2:3. A pastry scraper can be useful here.
-7) Using a pastry scraper or large metal spatula, cut the rectangle into thirds along it's long side. Using the pastry scraper or spatual, stack one of the end thirds into the middle third and then the other end third into the existing stack. Squish the dough down with your hand and the scraper/spatula into a new rectangle, roughly the same size as the original one. It will fall apart a bit around the border. That's ok. Use the scraper/spatula to push the cumbs around the edges back into the dough.
-8) With a large knife, cut the rectangle into thirds along the shorter side and into either fourths or sixths along the longer edge. You make find it useful to draw the cuts lightly with the knife before making the cuts to ensure you have biscuits the size you want.
-9) Line a baking sheet with parchment paper. Using the metal spatula, carefully transfer each biscuit to a baking sheet. Bake for 30 minutes, until tops become golden brown.
-10) Remove biscuits with and cool on rack or in a bowl lined and covered with a cloth or napkin.
-
+1) Preheat oven to 425 F and fill baking tray on the lower rack with a cm or so of water.
+2) Whisk the flour, baking powder, kosher salt, sugar, and baking soda in a large bowl. Using your hands, smash the butter into the flour mixture. It should be almost like you’re making pie dough (you’ve made pie dough before, right?), with little bits of butter but no large chunks.
+3) Drizzle half the buttermilk all over the dry mixture and, using a wooden spoon or, better yet, your hands, mix everything until it comes together. Add the remaining half of buttermilk and mix until it comes together into a sort of ball. Knead the mixture a few times in the bowl, making sure to get any of those dry bits at the bottom up into the mix.
+4) Turn the dough out onto a lightly floured work surface and knead another two or three times. 
+5) Pat the dough into a 1 ½-inch-thick rectangle about 9 inches long and 5 inches wide. (Optional: Refrigerate for 1–48 hours ahead of time before slicing and baking.) Cut it in half lengthwise, then crosswise into 4 pieces (you should get 8 biscuits). Alternatively, you can pat the dough into a 1 ½ -inch-thick disk (or whatever shape) and punch out 2-inch circles.
+6) Bake, rotating once, until the biscuits are deeply golden brown on the bottoms and tops, and the sides have puffed up like an accordion, 20 to 25 minutes.
+7) Remove biscuits with and cool on rack or in a bowl lined and covered with a cloth or napkin.
