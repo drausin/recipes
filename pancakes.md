@@ -4,10 +4,10 @@ credit: [NYTimes](https://cooking.nytimes.com/guides/24-how-to-make-pancakes)
 
 - 2 cups all-purpose flour
 - 3 Tbsp sugar
-- 3/2 tsp baking powder
-- 3/2 tsp baking soda
-- 5/4 tsp kosher salt
-- 3/2 cups buttermilk
+- 1.5 tsp baking powder
+- 1.5 tsp baking soda
+- 1.25 tsp kosher salt
+- 2.5 cups buttermilk
 - 2 large eggs
 - 3 Tbsp unsalted butter, melted
 - coconut oil for skillet
