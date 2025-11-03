@@ -8,6 +8,6 @@ Because github will probably be around longer than my binder of hand-written not
 - [Chili](chili.md)
 - [Falafel](falafel.md)
 - [Granola](granola.md)
-- [Monster Cookies][monster-cookies.md]
+- [Monster Cookies](monster-cookies.md)
 - [Pancakes](pancakes.md)
 - [Pesto](pesto.md)
