@@ -1,4 +1,4 @@
-# Cumb Coffee Cake
+# Crumb Coffee Cake
 
 credit: [Smitten Kitchen](https://smittenkitchen.com/2024/04/new-york-crumb-cake/)
 
