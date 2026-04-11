@@ -13,7 +13,7 @@ Crumbs
 | 1/4 cup (50 grams)	| 1/2 cup (100 grams)	| Granulated sugar |
 | 1 1/4 teaspoons	| 2 1/2 teaspoons	| Ground cinnamon |
 | 1/4 teaspoon	| 3/4 teaspoon	| Kosher salt |
-| 1 2/3 cups (215 grams)	| 3 1/3 cups (430 grams)	| All-purpose flour |
+| 1 2/3 cups (200 grams)	| 3 1/3 cups (400 grams)	| All-purpose flour |
 
 Cake
 
